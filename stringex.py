@@ -13,4 +13,6 @@ userInput = input('enter a string:')
 userInputConverted = userInput.upper()
 print(userInputConverted)
 
+# Dechen - D3ch3n
+#Hello - H3llo
 
