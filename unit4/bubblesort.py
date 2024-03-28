@@ -10,6 +10,7 @@ def bubble_sort(arr):
             elementright = arr[k+1]
             print('elementright:' , element)
             print('element:' , elementright)
+            
             print('==================')
             #swap
             if element > elementright:
